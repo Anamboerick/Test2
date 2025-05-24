@@ -1,2 +1,4 @@
 for i in range(10):
-    print("Hello, World!")
+    match i:
+        case _:
+            print("Hello, World!")
